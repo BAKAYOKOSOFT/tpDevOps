@@ -1,0 +1,3 @@
+Version 1.0 :
+- Création de la fonction saluer()
+- Ajout du fichier README.md
